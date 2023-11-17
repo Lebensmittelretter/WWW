@@ -1,3 +1,3 @@
 # WWW
-Dies ist ein erster Prototyp!
+Dies ist ein allererster Prototyp!
 
